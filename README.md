@@ -1,1 +1,1 @@
-# I2AI
+Palmer Penguins - Data Pre-processing and Analysis 
